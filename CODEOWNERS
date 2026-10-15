@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @juicerPony
+/src/backend/database.py      @juicerPony
+/src/backend/routers/auth.py  @juicerPony
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @juicerPony
